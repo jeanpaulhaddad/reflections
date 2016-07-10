@@ -7,15 +7,18 @@ The Git folder tracks the history of changes
 
 How is the staging area different from the working directory and the repository?
 
+It's the inbetween area where nothing is commited yet but files that are to be commited are added
 
 What value do you think it offers?
 
 
+More control about what exactly gets commited
 
 How can you use the staging area to make sure you have one commit per logical
  change?
 
 
+add and then commit the file(s) per logical change
 
 What are some situations when branches would be helpful in keeping your history
  organized? 
